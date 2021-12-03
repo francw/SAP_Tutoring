@@ -1,0 +1,45 @@
+ClassGrade,Subdivision,InstructorID,ClassDate,Course,SubjectClass,InstructorName
+2021_SU_G3,A1,2,2021-07-14,Communication,El sustantivo,Nayla
+2021_SU_G3,A1,2,2021-07-21,Communication,El sustantivo,Nayla
+2021_SU_G3,A1,2,2021-08-11,Communication,"Adjetivo, sustantivo",Nayla
+2021_SU_G3,A1,2,2021-08-18,Communication,El Articulo,Nayla
+2021_SU_G3,A1,2,2021-08-25,Cooking,Chocotejas,Nayla
+2021_SU_G3,A1,2,2021-09-01,Communication,Verbo,Nayla
+2021_SU_G3,A1,2,2021-09-08,Cooking,Cheesecake,Nayla
+2021_SU_G3,A1,2,2021-09-15,Communication,El sustantivo,Nayla
+2021_22_G3,A1,2,2021-10-06,Communication,Pronombre,Nayla
+2021_22_G3,A1,2,2021-10-13,Communication,Verbo,Nayla
+2021_22_G3,A1,2,2021-10-20,Communication,Preguntas,Nayla
+2021_22_G3,A1,2,2021-10-27,Math,Sumas y restas. Problemas,Nayla
+2021_22_G3,A1,2,2021-11-03,Math,Multiplicacion. Ejercicios,Nayla
+2021_22_PK,A1,1,2021-09-14,Math,"Números (1-7) conteo, reconocimiento y cantidad",Margarita
+2021_22_PK,A1,1,2021-09-21,Math,"Formas geométricas (cuadrado, rectángulo, círculo y
+triángulo)",Margarita
+2021_22_PK,A1,1,2021-09-28,Math,"Correspondencia (objeto a objeto; objeto a objeto con
+encaje; objeto y signo)",Margarita
+2021_22_PK,A1,1,2021-10-05,Communication,"Sensibilidad fonológica: Adivinanzas (lenguaje, asociación
+y producción)",Margarita
+2021_22_PK,A1,1,2021-10-12,Communication,Sonidos cortos y largos (discriminación de sonidos),Margarita
+2021_22_PK,A1,1,2021-10-19,Communication,"Compresión Lectora (niveles de compresión y
+pictogramas)",Margarita
+2021_22_PK,A1,1,2021-10-26,Cooking,Mini-chef : Sandwich triple,Margarita
+2021_22_G1,A1,1,2021-09-13,Math,Recta numérica,Margarita
+2021_22_G1,A1,1,2021-09-20,Math,Suma,Margarita
+2021_22_G1,A1,1,2021-09-27,Math,Repaso (recta númerica y suma),Margarita
+2021_22_G1,A1,1,2021-10-04,Communication,Consonante “S”,Margarita
+2021_22_G1,A1,1,2021-10-11,Communication,Consonante “D”,Margarita
+2021_22_G1,A1,1,2021-10-18,Communication,"Compresión Lectora (niveles de compresión y
+pictogramas)",Margarita
+2021_22_G1,A1,1,2021-10-25,Cooking,Mini-chef,Margarita
+2021_22_G6,A1,3,2021-10-06,Communication,Presentacion. Elementos de la comunicacion,Rosa María
+2021_22_G6,A1,3,2021-10-13,Communication,"Clases y ordenar oraciones. Oraciones de 4, 5, 6, … palabras",Rosa María
+2021_22_G6,A1,3,2021-10-20,Communication,"Sustantivos: comun, propio, colectivo, individual, abstracto, concreto",Rosa María
+2021_22_G6,A1,3,2021-10-27,Communication,NO CLASS - INSTRUCTOR VACATION,Rosa María
+2021_22_G6,A1,3,2021-11-03,Communication,Adjetivos y pronombre,Rosa María
+2021_22_G6,A1,3,2021-11-10,Communication,Verbos y tiempos,Rosa María
+2021_22_G3,A2,2,2021-10-18,Communication,Oraciones y compresion de texto,Nayla
+2021_22_G3,A2,2,2021-10-25,Communication,Sustantivo y adjetivos,Nayla
+2021_22_G6,A2,3,2021-11-24,Communication,Conjugacion de los verbos ser - estar,Rosa María
+2021_22_G6,A2,3,2021-12-01,Communication,Partes de la oracion sujeto y Predicado,Rosa María
+2021_22_G6,A2,3,2021-12-06,Communication,Clases de sujeto,Rosa María
+2021_22_G6,A2,3,2021-12-13,Communication,Modificadores de Sujeto,Rosa María
