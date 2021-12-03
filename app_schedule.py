@@ -39,6 +39,8 @@ fig.update_xaxes(
 )
 
 app = dash.Dash()
+server = app.server
+
 app.layout = html.Div([
     dcc.Graph(figure=fig)
 ])
